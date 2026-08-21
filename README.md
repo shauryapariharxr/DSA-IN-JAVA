@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1470-shuffle-the-array) |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

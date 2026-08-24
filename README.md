@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

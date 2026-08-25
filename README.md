@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0485-max-consecutive-ones) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->

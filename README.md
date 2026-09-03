@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1929-concatenation-of-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0009-palindrome-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->

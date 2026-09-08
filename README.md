@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0009-palindrome-number) |
+| [3870-count-commas-in-range](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |

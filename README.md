@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -66,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [3870-count-commas-in-range](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String

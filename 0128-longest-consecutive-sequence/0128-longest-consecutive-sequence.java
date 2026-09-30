@@ -5,13 +5,12 @@ public class Solution {
         int longest = 0;
         for (int n : set) {
             if (!set.contains(n - 1)) {
-                int current = n;
-                int length = 1;
-                while (set.contains(current + 1)) {
-                    current++;
-                    length++;
+                int cur = n, len = 1;
+                while (set.contains(cur + 1)) {
+                    cur++;
+                    len++;
                 }
-                if (length > longest) longest = length;
+                if (len > longest) longest = len;
             }
         }
         return longest;

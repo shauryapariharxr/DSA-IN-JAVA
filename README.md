@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1470-shuffle-the-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3870-count-commas-in-range](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/3875-construct-uniform-parity-array-i) |
 ## String

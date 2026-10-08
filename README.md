@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0876-middle-of-the-linked-list) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0148-sort-list) |
 | [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -150,4 +153,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->

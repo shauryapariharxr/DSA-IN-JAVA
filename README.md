@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0136-single-number) |
+| [0179-largest-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0148-sort-list) |
+| [0179-largest-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0179-largest-number) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/shauryapariharxr/DSA_IN_JAVA/tree/master/0179-largest-number) |
 ## Trie
 |  |
 | ------- |
